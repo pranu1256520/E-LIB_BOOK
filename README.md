@@ -122,7 +122,7 @@ We would love to hear from you! Feel free to reach out to us for collaborations,
     </td>
         <td>
       <a href="https://github.com/pranu1256520" target="_blank">
-        <img src="https://media.licdn.com/dms/image/v2/D5635AQGdM93v_83sNg/profile-framedphoto-shrink_800_800/profile-framedphoto-shrink_800_800/0/1732430989255?e=1733691600&v=beta&t=Cr0c9EVqwjz9EKHiv1cRJsTAEKFnbQhq3M-C6latg8g" alt="Pranathi BH" style="width: 100px; height: 100px; border-radius: 50%;">
+        <img src="https://royal-learning-aws-s3.s3.us-east-1.amazonaws.com/WhatsApp+Image+2024-12-26+at+22.12.06_bd9f7a37.jpg" alt="Pranathi BH" style="width: 100px; height: 100px; border-radius: 50%;">
       </a>
     </td>
         <td>
